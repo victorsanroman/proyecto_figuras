@@ -1,0 +1,5 @@
+# Ignorar todos los ficheros con extensión .txt
+*.txt
+
+# Menos los que sean "importante.txt" sin importar la carpeta
+!importante.txt
