@@ -3,3 +3,5 @@
 
 # Menos los que sean "importante.txt" sin importar la carpeta
 !importante.txt
+# Eliminamos los ficheros .pyc independientemente de su localización
+*.pyc
